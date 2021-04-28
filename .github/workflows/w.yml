@@ -1,4 +1,4 @@
-name: CI
+name: win
 
 on: workflow_dispatch
 
